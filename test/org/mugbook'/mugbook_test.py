@@ -35,6 +35,18 @@ class MugbookTest(unittest.TestCase):
         self.assertEqual(["vis","german", "first alfa"], firearm.catalog_category_tree)
         self.assertEqual(["HPT RHS TG"], firearm.features)
 
+    def test_second_alfa_2k_low(self):
+        firearm = self.mugbook.path_to_firearm("/Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/_2nd alpha____1816/2K___261/2K420_dr łuk_repark_e623TG")
+        self.assertNotEqual(NullFirearm(), firearm)
+        self.assertEqual("/000_GER____5609/_2nd alpha____1816/2K___261/2K420_dr łuk_repark_e623TG", firearm.directory)
+        self.assertEqual("vis", firearm.type)
+        self.assertEqual("2K420", firearm.serial_on_frame)
+        self.assertEqual("second alfa 2K420", firearm.standardized_serial)
+        self.assertEqual("2A2K0420", firearm.sorted_serial)
+        self.assertEqual(False, firearm.prewar)
+        self.assertEqual(["vis","german", "second alfa"], firearm.catalog_category_tree)
+        self.assertEqual(["dr łuk", "repark", "e623TG"], firearm.features)
+
 
     def test_rescan_prealfas(self):
         self.mugbook.rescan()

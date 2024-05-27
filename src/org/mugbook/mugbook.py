@@ -63,7 +63,7 @@ class Mugbook:
         elif alphabet_prefix == "second alfa":
             # if serial on frame starts with 2k, padd the following digits with up to 4 zeroes
             if serial_on_frame[0] == '2' and serial_on_frame[1] == 'K':
-                sorted_serial = f"2K{serial_on_frame[2:].zfill(4)}"
+                sorted_serial = f"2A2K{serial_on_frame[2:].zfill(4)}"
             else:
                 sorted_serial = f"2A{serial_on_frame.zfill(5)}"
 
