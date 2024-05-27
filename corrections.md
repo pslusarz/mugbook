@@ -2,3 +2,6 @@
 | /Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/__pre-alpha____282/4952 KM_N_N52mag_fake_holster_ex-loop | underscore 4952_KM_N_N52mag_fake_holster_ex-loop |
 | /Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/__pre-alpha____282/5694 fake KM_N323_still | underscore 5694_fake_KM_N323_still |
 | /Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/__pre-alpha____282/7891 KM_LHS_improvised loop | underscore 7891_KM_LHS_improvised_loop |
+| /Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/_1 st alpha_____3508/1A____169/1A1201-KM_LHS | underscore 1A1201_KM_LHS |
+| /Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/_1 st alpha_____3508/1K___202/1K5421-L9421_901_cuts_reblue_rus | underscore 1K5421_L9421_901_cuts_reblue_rus |
+| /Users/paulslusarz/Documents/radoms/mugbook2024/__POLSKIE_VIS35/000_GER____5609/_2nd alpha____1816/2B____186/2B7774-B6600_xTG_dr łuk_WaA623_refinish fosf | underscore 2B7774_B6600_xTG_dr_łuk_WaA623_refinish_fosf |
